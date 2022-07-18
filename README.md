@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faisalawan11
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on IoT and Computer Vision
+- 👀 I’m interested in System Verification, FPGA design and Web Development
+- 🌱 I’m currently learning System Verilog Test Bench, Functional Coverage and UVM
+- 💞️ I’m looking to collaborate on simple layered test bench on different designed under test
 - 📫 How to reach me on faisalsaeedawan20@gmail.com
 
 <!---
